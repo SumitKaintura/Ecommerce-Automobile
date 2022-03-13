@@ -1,0 +1,6 @@
+com\niit\MongoDbExampleApplication.class
+com\niit\controller\MyController.class
+com\niit\domain\Automobile.class
+com\niit\domain\Cart.class
+com\niit\repository\CartRepository.class
+com\niit\repository\AutomobileRepository.class
